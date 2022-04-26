@@ -1,0 +1,69 @@
+body {
+    background: #F2F2F2;
+    margin: 0;
+    padding: 0 ;
+    
+  }
+nav {
+    background: #1d6295;
+    width: 100%;
+    overflow: auto;
+
+}
+
+.jarvis{     
+    list-style: none;
+    text-decoration: none;
+        
+  }
+.jar{
+    float: left;
+    margin: 0px 40px 10px 40px;
+    list-style: none;
+    text-decoration: none;
+    }
+
+
+
+.first{
+    width: 100px;
+    display: inline-block;
+    padding: 0px 40px 10px 40px;
+    text-decoration: none;
+    font-family: arial;
+    color: #F2F2F2;
+    
+}
+ 
+.second-nav{
+    background: #a3ceed;
+    width: 100%;
+    overflow: auto;
+    font-weight: 600;
+}
+
+.sec-ul{
+    list-style: none;
+
+}
+
+.sec-li{
+    float: left;
+    margin: 0px 140px 10px 140px;
+}
+
+.btn1{
+    margin: 40px; 
+    padding: 20px 300px 20px 300px; 
+    border: solid #1d6295  2px;
+    font: bold;
+
+}
+
+.gra1{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+    padding-left: 120px;
+}
+
