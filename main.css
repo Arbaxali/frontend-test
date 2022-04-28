@@ -54,16 +54,48 @@ nav {
 
 .btn1{
     margin: 40px; 
-    padding: 20px 300px 20px 300px; 
+    padding: 20px 180px 20px 150px; 
+    border: solid #1d6295  2px;
+    font: bold;
+    display: inline-block;
+
+}
+
+.gra1{
+    
+    margin-left: 10px;
+    padding-left: 30px;
+    
+
+}
+.btn2{
+    margin: 40px; 
+    padding: 20px 180px 20px 150px; 
     border: solid #1d6295  2px;
     font: bold;
 
 }
 
-.gra1{
-    display: flex;
-    justify-content: flex-start;
-    margin-left: 50px;
-    padding-left: 120px;
+.gra2{
+    
+    margin-left: 10px;
+    padding-left: 30px;
+    
+
+}
+.btn3{
+    margin: 40px; 
+    padding: 20px 180px 20px 150px; 
+    border: solid #1d6295  2px;
+    font: bold;
+
+}
+
+.gra3{
+    
+    margin-left: 10px;
+    padding-left: 30px;
+    
+
 }
 
